@@ -40,6 +40,8 @@ System.out.println(str.indexOf('h'));
 
 
 //String isEmpty: Checks if this string is empty.
+System.out.println(str.isEmpty());
+
 
 
 //String replace: Returns a string replacing all the older char to new char
